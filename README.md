@@ -2,7 +2,7 @@
  
 Papers of 2022 THE-AAAI-CONFERENCE-ON-ARTIFICIAL-INTELLIGENCE  are all here.
 
-You can download them by download this project in github.
+You can download them here.
 
 Or you can download them in Official website of AAAI "https://aaai.org/Conferences/AAAI-22/"  by my python code.
 
